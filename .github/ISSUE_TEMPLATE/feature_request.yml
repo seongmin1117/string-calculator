@@ -1,5 +1,6 @@
 name: "✨ 새로운 기능 추가"
 description: "새로운 기능에 대한 이슈를 작성해 주세요."
+title: "[Feat] 제목 "
 labels: [ "💡기능" ]
 body:
   - type: textarea
