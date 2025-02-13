@@ -1,0 +1,11 @@
+name: "✨ 새로운 기능 추가"
+description: "새로운 기능에 대한 이슈를 작성해 주세요."
+labels: [ "💡기능" ]
+body:
+  - type: textarea
+    attributes:
+      label: "📄 설명"
+      description: "추가할 기능에 대한 설명을 작성해 주세요."
+      placeholder: "자세히 적어주세요. 기능의 동작 방식과 목표를 포함해주세요."
+    validations:
+      required: true
